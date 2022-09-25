@@ -1,0 +1,37 @@
+///Questions
+
+1. React.memo and useMemo - What's the Difference?
+
+2. What is the difference between useMemo and useCallback?
+
+3. When to use useMemo and useCallback
+
+4. When not to use useMemo and useCallback
+
+5. How to useMemo in React
+
+
+
+///Answers
+
+1. https://bionicjulia.com/blog/react-memo-and-usememo-whats-the-difference
+
+2. https://atomizedobjects.com/blog/react/what-is-the-difference-between-usememo-and-usecallback/
+
+3. second link
+
+4. second link
+
+5. https://www.robinwieruch.de/react-usememo-hook/
+
+
+
+//Additional resources
+
+https://kentcdodds.com/blog/usememo-and-usecallback#computationally-expensive-calculations
+
+https://www.youtube.com/watch?v=iluhgn4qlrw
+
+https://www.youtube.com/watch?v=wjvQNo5s4cw
+
+
