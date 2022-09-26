@@ -8,6 +8,7 @@ const users = [
   { id: 'e', name: 'Bob' },
   { id: 'f', name: 'Jhon' },
   { id: 'j', name: 'Marta' },
+  { id: 'z', name: 'Con' },
 ];
 
 const App = () => {
