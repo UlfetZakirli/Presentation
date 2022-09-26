@@ -28,10 +28,12 @@
 
 //Additional resources
 
-https://kentcdodds.com/blog/usememo-and-usecallback#computationally-expensive-calculations
+https://kentcdodds.com/blog/usememo-and-usecallback
 
 https://www.youtube.com/watch?v=iluhgn4qlrw
 
 https://www.youtube.com/watch?v=wjvQNo5s4cw
+
+https://www.robinwieruch.de/react-usememo-hook/
 
 
